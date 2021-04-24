@@ -1,8 +1,6 @@
 # DarmendarizpViewTool
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/darmendarizp_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Various view specific methods for applications I use.
 
 ## Installation
 
@@ -14,15 +12,15 @@ gem 'darmendarizp_view_tool'
 
 And then execute:
 
-    $ bundle install
+```shell
+bundle install
+```
 
 Or install it yourself as:
 
-    $ gem install darmendarizp_view_tool
-
-## Usage
-
-TODO: Write usage instructions here
+```shell
+gem install darmendarizp_view_tool
+```
 
 ## Development
 
@@ -32,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/darmendarizp_view_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/DavidArmendariz/darmendarizp_view_tool.
 
 ## License
 
