@@ -1,5 +1,7 @@
 AllCops:
   TargetRubyVersion: 2.4
+  SuggestExtensions: false
+  NewCops: enable
 
 Style/StringLiterals:
   Enabled: true
@@ -8,6 +10,12 @@ Style/StringLiterals:
 Style/StringLiteralsInInterpolation:
   Enabled: true
   EnforcedStyle: double_quotes
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
 
 Layout/LineLength:
   Max: 120
